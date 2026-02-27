@@ -23,6 +23,19 @@ I’m a Data Analytics Engineer with a strong focus on turning raw data into mea
 - Scalable data engineering workflows  
 
 ### 🤝 Let’s Connect
+
+<a href="https://www.linkedin.com/in/fajar-mohammed/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/fajarsmagazine" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="30" height="30"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:kzmohammedfajar@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="30" height="30"/>
+</a>
+
 If you’re interested in data analytics, dashboards, or big data solutions, feel free to connect or collaborate!
 
 ⭐ *Thanks for visiting my profile!*
