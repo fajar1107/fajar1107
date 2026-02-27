@@ -27,13 +27,8 @@ I’m a Data Analytics Engineer with a strong focus on turning raw data into mea
 <a href="https://www.linkedin.com/in/fajar-mohammed/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
 </a>
-&nbsp;&nbsp;
 <a href="https://www.instagram.com/fajarsmagazine" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/330px-Instagram_logo_2016.svg.png" alt="Instagram" width="30" height="30"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:kzmohammedfajar@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/330px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="30" height="30"/>
 </a>
 
 If you’re interested in data analytics, dashboards, or big data solutions, feel free to connect or collaborate!
