@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋 I'm Fajar
 
-<!--
-**fajar1107/fajar1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **India**  
+💼 **Data Analytics Engineer**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+I’m a Data Analytics Engineer with a strong focus on turning raw data into meaningful insights. I enjoy building data pipelines, analyzing trends, and creating dashboards that help teams make data-driven decisions.
+
+### 🛠️ Tech Stack
+- **Programming:** Python, SQL  
+- **Data Analysis:** Excel  
+- **Visualization:** Power BI  
+- **Big Data & Cloud:** Databricks  
+
+### 📊 What I Work On
+- Data cleaning, transformation, and analysis  
+- Building dashboards and reports for business insights  
+- Working with large datasets using distributed data platforms  
+
+### 🌱 Currently Learning
+- Advanced analytics & performance optimization  
+- Scalable data engineering workflows  
+
+### 🤝 Let’s Connect
+If you’re interested in data analytics, dashboards, or big data solutions, feel free to connect or collaborate!
+
+⭐ *Thanks for visiting my profile!*
