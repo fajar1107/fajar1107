@@ -33,7 +33,7 @@ I’m a Data Analytics Engineer with a strong focus on turning raw data into mea
 </a>
 &nbsp;&nbsp;
 <a href="mailto:kzmohammedfajar@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="30" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/330px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="30" height="30"/>
 </a>
 
 If you’re interested in data analytics, dashboards, or big data solutions, feel free to connect or collaborate!
